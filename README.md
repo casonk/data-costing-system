@@ -4,7 +4,7 @@ A Data Costing System (DCS) is meant to distribute data related costs across the
 ## Architecture
 
 From a domain perspective, the user, data, and requirements domains are joined to form the system domain. 
-![DCS Architecture Diagram](/data-costing-system/architecture/figures/VisualArch.png)
+![DCS Architecture Diagram](/architecture/figures/VisualArch.png)
 
 The system admin holds end to end (E2E) responsibility of the data costing system.
 - The system domain is integrated with SAP for costing and SNMP for notification. 
